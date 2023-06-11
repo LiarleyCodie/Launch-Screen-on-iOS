@@ -83,15 +83,8 @@
   margin: auto;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
+@keyframes OpacityIn {
+  from {
+    opacity: 0;
+  }
+}
